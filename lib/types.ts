@@ -1,5 +1,7 @@
+// Define user roles in the system
 export type UserRole = 'student' | 'teacher' | 'admin'
 
+// User profile interface with all user details
 export interface Profile {
   id: string
   email: string
