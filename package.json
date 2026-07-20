@@ -1,6 +1,7 @@
 {
-  "name": "my-project",
-  "version": "0.1.0",
+  "name": "school-management-system",
+  "version": "1.0.0",
+  "description": "Production-ready school management system with role-based dashboards",
   "private": true,
   "scripts": {
     "dev": "next dev",

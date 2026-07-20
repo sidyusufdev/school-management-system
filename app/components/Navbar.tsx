@@ -1,5 +1,5 @@
 'use client'
-
+// Main navigation bar with user info and authentication controls
 import { useRouter } from 'next/navigation'
 import { Bell, LogOut, User } from 'lucide-react'
 import { useAuth } from '@/app/context/AuthContext'

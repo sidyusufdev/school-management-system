@@ -1,5 +1,5 @@
 'use client'
-
+// Global authentication context and state management for the application
 import React, { createContext, useContext, useEffect, useState } from 'react'
 import { createClient } from '@/lib/supabase/client'
 import { Profile, UserRole } from '@/lib/types'
