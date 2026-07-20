@@ -1,5 +1,6 @@
 import React from 'react'
 
+// Statistics card component used in dashboards to display key metrics
 interface StatCardProps {
   label: string
   value: string | number
