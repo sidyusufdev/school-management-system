@@ -1,3 +1,4 @@
+// Animated loading spinner component for async operations
 export default function LoadingSpinner() {
   return (
     <div className="flex items-center justify-center">
