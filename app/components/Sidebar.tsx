@@ -1,4 +1,5 @@
 'use client'
+// Navigation sidebar with role-based menu items for different user types
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
