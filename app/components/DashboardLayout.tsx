@@ -1,4 +1,5 @@
 'use client'
+// Main dashboard layout wrapper with navigation and sidebar for all dashboard pages
 
 import { useAuth } from '@/app/context/AuthContext'
 import Navbar from '@/app/components/Navbar'
