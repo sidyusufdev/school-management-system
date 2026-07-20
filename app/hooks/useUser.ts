@@ -1,4 +1,5 @@
 'use client';
+// Fetch and manage current user profile data from database
 
 import { useEffect, useState } from 'react';
 import { createClient } from '@/lib/supabase/client';
