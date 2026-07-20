@@ -1,4 +1,5 @@
 'use client';
+// Custom hook to determine user role and access permissions
 
 import { useAuth } from '@/app/context/AuthContext'
 
